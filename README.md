@@ -31,6 +31,8 @@ Perplexity — Predictive performance
 Sentiment Polarity — Emotional alignment using VADER
 Emotion Scores — NRC Lexicon matching
 Human Evaluation — Survey feedback on poetic authenticity
+
 🔗 Resources
 
-📚 Dataset: Gutenberg Poetry Dataset on Kaggle
+📚 Dataset: https://www.kaggle.com/datasets/terminate9298/gutenberg-poetry-dataset
+
