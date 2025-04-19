@@ -1,6 +1,8 @@
-# LLM-AI-poetry
+# LLM-AI-Poetry
+
 This project explores emotionally expressive AI-generated poetry using prompt engineering and fine-tuned LLMs. We evaluate outputs across BLEU, perplexity, sentiment analysis, and human feedback to assess emotional alignment and poetic quality.
-# Exploring Emotional Depth in AI-Generated Poetry
+
+## 🧠 Exploring Emotional Depth in AI-Generated Poetry
 
 This project investigates how to enhance the emotional quality of AI-generated poetry using large language models (LLMs) through:
 
@@ -16,15 +18,12 @@ This project investigates how to enhance the emotional quality of AI-generated p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/NLP-Project.git
-   cd NLP-Project
-   
+   git clone https://github.com/your-username/LLM-AI-Poetry.git
+   cd LLM-AI-Poetry
 Install required dependencies (example):
 pip install -r requirements.txt
-
 Run the notebook:
 jupyter notebook NLP_Project_Report_Code.ipynb
-
 📊 Evaluation Metrics
 
 BLEU Score — Fluency and grammatical correctness
@@ -32,7 +31,6 @@ Perplexity — Predictive performance
 Sentiment Polarity — Emotional alignment using VADER
 Emotion Scores — NRC Lexicon matching
 Human Evaluation — Survey feedback on poetic authenticity
-🔗 Links
+🔗 Resources
 
-Dataset : https://www.kaggle.com/datasets/terminate9298/gutenberg-poetry-dataset
-
+📚 Dataset: Gutenberg Poetry Dataset on Kaggle
